@@ -5,5 +5,5 @@
 - store — создаёт новый товар (POST /products)
 - update — обновляет товар (PUT /products/{id})
 - destroy — удаляет товар (DELETE /products/{id})
-Написать маршруты, явно указав HTTP методы (Route::get, Route::post, Route::put, Route::delete).
+- Написать маршруты, явно указав HTTP методы (Route::get, Route::post, Route::put, Route::delete).
 3. Не разворачивать проект Laravel, просто написать код файлов.
